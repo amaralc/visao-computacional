@@ -1,1 +1,1 @@
-"# Projetos da disciplina Visao Computacional" 
+# Projetos da disciplina Visao Computacional
