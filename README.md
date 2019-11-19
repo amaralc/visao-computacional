@@ -52,15 +52,84 @@ The histogram of oriented gradients (HoG) is a feature descriptor used in comput
 
 > Experimento 3: Rotulação dos Objetos em Movimento com Tamanho acima de um LimiarTarefa
 
-### 3.6. Extração de Características - Métodos Geométricos - Transformada de Hough
+## 3.6. Extração de Características - Métodos Geométricos - Transformada de Hough
 
 Site de referência deste Capítulo: [3.Visão Computacional::Domínio do Espaço](http://www.lapix.ufsc.br/ensino/visao/#Dominio_do_Espaco)
 
-5.0 Aula Introdutória de Redes Neurais
-5.1. Deep Learning: Introdução às Redes Neurais Convolucionais
-5.2. Deep Learning: Reconhecimento de Imagens
-5.3. Deep Learning: Detecção de Objetos
-5.4. Deep Learning: Segmentação Semântica
-5.5.Aula de Discussão dos Problemas de Cada um à Luz de uma Solução usando Redes Neurais Convolucionais
+## 5.0 Aula Introdutória de Redes Neurais
+
+Site de referência deste Capítulo: [5. Deep Learning::Redes Neurais Convolucionais para Processamento de Imagens](http://www.lapix.ufsc.br/ensino/visao/visao-computacionaldeep-learning)
+
+Páginas de Apoio da Unidade:
+
+1. [Reconhecimento de Padrões::Técnicas Sub-simbólicas: Redes Neurais](http://www.lapix.ufsc.br/ensino/reconhecimento-de-padroes/tecnicas-sub-simbolicas-redes-neurais/)
+1. [Deep Learning::PyTorch & fast.ai](http://www.lapix.ufsc.br/ensino/visao/visao-computacionaldeep-learning/deep-learningpytorch)
+
+Material de Apoio Externo:
+
+1. [Simulador online de TensorFlow Deep Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.47515&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) (escrito em TypeScript e d3.js)
+1. Outro simulador simples online: http://experiments.mostafa.io/public/ffbpann/
+
+## 5.1. Deep Learning: Introdução às Redes Neurais Convolucionais
+
+Site de referência deste Capítulo: 5. Deep Learning::Redes Neurais Convolucionais para Processamento de Imagens
+
+Páginas de Apoio da Unidade:
+
+1. [Deep Learning::Introdução ao Novo Coneccionismo](http://www.lapix.ufsc.br/ensino/visao/visao-computacionaldeep-learning/deep-learningintroducao-ao-novo-coneccionismo)
+1. [Deep Learning::Aprendizado por Transferência e Ajuste Fino](http://www.lapix.ufsc.br/ensino/visao/visao-computacionaldeep-learning/deep-learningaprendizado-por-transferencia-e-ajuste-fino)
+1. [Deep Learning::Usando a Nuvem para seus Trabalhos](http://www.lapix.ufsc.br/ensino/visao/visao-computacionaldeep-learning/deep-learningintroducao-ao-novo-coneccionismo/deep-learningusando-nuvem-para-seus-trabalhos)
+1. [Deep Learning::Coisas Prontas & Datasets](http://www.lapix.ufsc.br/ensino/visao/visao-computacionaldeep-learning/deep-learningcoisas-prontas-datasets)
+1. [Deep Learning::Entenda o Babel: Glossário](http://www.lapix.ufsc.br/ensino/visao/visao-computacionaldeep-learning/deep-learningglossario/)
+
+Material de Apoio Externo:
+
+1. [Simulador online ConvNetJS MNIST demo (LeNet-5)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html) (Andrej Kárpathy)
+1. [Simulador interativo online 2D do MNIST  (LeNet-5)](http://scs.ryerson.ca/~aharley/vis/conv/flat.html) (Adam Harley)
+1. [Simulador interativo online 3D do MNIST  (LeNet-5)](https://scs.ryerson.ca/~aharley/vis/conv/) (Adam Harley)
+
+## 5.2. Deep Learning: Reconhecimento de Imagens
+
+Site de referência deste Capítulo: 5. Deep Learning::Redes Neurais Convolucionais para Processamento de Imagens
+
+Páginas de Apoio da Unidade:
+
+Deep Learning::Reconhecimento de Imagens
+Deep Learning::Aprendizado por Transferência e Ajuste Fino
+Deep Learning::Usando a Nuvem para seus Trabalhos
+Deep Learning::Coisas Prontas & Datasets
+Deep Learning::Entenda o Babel: Glossário
+Material de Apoio Externo:
+
+Simulador online: ConvNetJS CIFAR-10 demo (Andrej Kárpathy)
+
+## 5.3. Deep Learning: Detecção de Objetos
+
+Site de referência deste Capítulo: 5. Deep Learning::Redes Neurais Convolucionais para Processamento de Imagens
+
+Páginas de Apoio da Unidade:
+
+Deep Learning::Detecção de Objetos em Imagens
+Deep Learning::Usando a Nuvem para seus Trabalhos
+Deep Learning::Coisas Prontas & Datasets
+Deep Learning::Entenda o Babel: Glossário
+No Browser:
+
+Hackernoon::TensorFlow.js — Real-Time Object Detection in 10 Lines of Code
+TensorFlow.js:: Real-Time Object Detection Demo
+TensorFlow.js:: Real-Time Object Detection Demo (Full Code)
+
+## 5.4. Deep Learning: Segmentação Semântica
+
+Site de referência deste Capítulo: 5. Deep Learning::Redes Neurais Convolucionais para Processamento de Imagens
+
+Páginas de Apoio da Unidade:
+
+Deep Learning::Segmentação de Imagens com CNNs
+Deep Learning::Ensinando à Rede: Ferramentas de Anotação
+Deep Learning::Coisas Prontas & Datasets
+Deep Learning::Entenda o Babel: Glossário
+
+## 5.5.Aula de Discussão dos Problemas de Cada um à Luz de uma Solução usando Redes Neurais Convolucionais
 
 Poster Session - Apresentação das Soluções com CNNs
