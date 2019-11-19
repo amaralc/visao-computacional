@@ -1,6 +1,6 @@
 # Disciplina: Visao Computacional (http://www.lapix.ufsc.br/ensino/visao)
 
-Os tópicos descritos fazem parte da disciplina Visão Computacional do LAPIX (http://www.lapix.ufsc.br/ensino/visao).
+Os tópicos descritos fazem parte da disciplina Visão Computacional do LAPIX (http://www.lapix.ufsc.br/ensino/visao) e foram apenas transcritos aqui por comodidade.
 
 ## Capítulo 0.0. Paradigmas  de VC e RP
 ## Capítulo 1.0. Técnicas no Domínio do Valor
